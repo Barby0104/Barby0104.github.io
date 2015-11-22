@@ -2,7 +2,7 @@
 title:  "Grandma Lucy's Organic Baked Treats"
 subtitle: "Pumpkin & Blueberry baked treats"
 author: "Barb"
-avatar: "https://www.facebook.com/photo.php?fbid=10204850798220826&set=a.1419260492600.2053027.1565296990&type=3&theater"
+avatar: "https://scontent-yyz1-1.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p160x160/12246654_10204850798220826_8800082923078231274_n.jpg?oh=afcc4b5d04d0ad2037e7f55d03843ed5&oe=56F8745D"
 image: "http://i.imgur.com/pBXsTPi.jpg"
 date:   2015-11-21 12:12:12
 ---
