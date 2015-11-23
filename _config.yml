@@ -1,13 +1,6 @@
 # Site settings
 title: Tony likes to blog
 description: Follow me on my pet experiences with doggy treats, toys, & more
-<?xml version="1.0" encoding="UTF-8" ?>
-<root>
-	<Process>Application-Confirmation</Process>
-	<Version>1.0</Version>
-	<Mode>Verify-File</Mode>
-	<Authentication>4e381efe67d75082a56c19ed7a4a9de4d3bf41f1</Authentication>
-</root>
 keywords: Modern, Blogging, Fun
 author: Tony
 baseurl: "" # the subpath of your site, e.g. /blog/
